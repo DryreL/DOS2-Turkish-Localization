@@ -1,0 +1,53 @@
+&apos;
+&lt;i&gt; &lt;/i&gt;
+
+Spitter - ?
+Demonic Flayer - Şeytani Uğursuz
+Blackroot - Karakök
+Shriekers - Çığırtkan
+Driftwood - (bölge)
+Chancellor - Bakan
+Shadow Prince - Gölge Prens
+Fire Voidling - Ateş Boşlanı
+Masters of the Source - Kaynağın Efendileri
+Xhaxhs Cache - Xhaxh'ın Gizli Yeri
+Lucian the Divine - İlahi Lucian
+Fane the Traitor - Hain Fane
+Potion Of Nimble Tumble - Çevik Takla İksiri
+Hired Pyromancer - Kiralık Ateşbüyücüsü
+plight - durum
+Deathfog - Ölümsisi
+Fiery Malediction - Kızgın Lanet
+citrus - Narenciye
+Wits - Zeka
+Hymnals - İlahi Kitaplar
+Virtue Token - Erdemlik Simgesi
+Fort Joy - (mekan)
+Blackpits - Karaçukurlar
+Seekers - Arayıcılar
+Meistr Siva - (özel isim)
+Temple of Zorl-Stissa - Zorl-Stissa Tapınağı
+Knight of Duna - Duna Şövalyesi
+Voidwoken - Boşyandırık
+Vrogir  - ?
+Old Master - Yaşlı Usta
+Elven Sabre - Elf Süvari Kılıcı
+Divine Order - İlahi Teşkilat
+squirmy little twit - kıvrak küçük bir aptal
+The White Magister - Ak Majister
+Malady - ?
+DEFAULTER - ŞEREFSİZ
+Paladin - ?
+Grandmaster of the Paladins - Paladinlerin Efendisi
+Milords - ?
+scurvy tosser - Pislik
+Prime Scions - ?
+Magister - Majister
+Adventurers - Maceracılar
+Cloisterwood - ?
+Windegos - ?
+The Advocate - Yandaş
+Yarrow - Civanperçemi
+Hollow Marshes - İçi Boş Bataklık
+Wither - ?
+Vagrant Poacher - ?

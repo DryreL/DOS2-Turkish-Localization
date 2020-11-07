@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="6" build="0" />
+    <region id="Config">
+        <node id="root">
+            <children>
+                <node id="Dependencies">
+                    <children>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="DivinityOrigins_1301db3d-1f54-4e98-9be5-5094030916e4" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Divinity: Original Sin 2" type="22" />
+                            <attribute id="UUID" value="1301db3d-1f54-4e98-9be5-5094030916e4" type="22" />
+                            <attribute id="Version" value="373234071" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="GameMaster" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Game Master" type="22" />
+                            <attribute id="UUID" value="00550ab2-ac92-410c-8d94-742f7629de0e" type="22" />
+                            <attribute id="Version" value="271587865" type="4" />
+                        </node>
+                    </children>
+                </node>
+                <node id="ModuleInfo">
+                    <attribute id="Author" value="Yıvalı - Uğur Anlar" type="30" />
+                    <attribute id="CharacterCreationLevelName" value="" type="22" />
+                    <attribute id="Description" value="Discord:uguranlar#8651 Tek başıma çeviriyorum, çeviri yardımlarına açığım.   Aşağı yukarı %5lik kısmı çevrildi. Ana menü, karakter yaratma ekranı ve açıklamaları dahil büyüler. Bazı dialoglar rastgele olarak çevrildi. Ana hikayeyi baştan sona çevirmeyi planlıyorum.  Çevirdikçe güncelleyeceğim" type="30" />
+                    <attribute id="DescriptionName" value="" handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                    <attribute id="DisplayName" value="" handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                    <attribute id="Folder" value="Turkish_Localization_fc091e62-26c9-4225-beab-bad9831efa12" type="30" />
+                    <attribute id="GMTemplate" value="" type="22" />
+                    <attribute id="LobbyLevelName" value="" type="22" />
+                    <attribute id="MD5" value="" type="23" />
+                    <attribute id="MenuLevelName" value="" type="22" />
+                    <attribute id="Name" value="Türkçe Dil Desteği" type="22" />
+                    <attribute id="NumPlayers" value="2" type="1" />
+                    <attribute id="PhotoBooth" value="" type="22" />
+                    <attribute id="StartupLevelName" value="" type="22" />
+                    <attribute id="Tags" value="" type="30" />
+                    <attribute id="Type" value="Add-on" type="22" />
+                    <attribute id="UUID" value="fc091e62-26c9-4225-beab-bad9831efa12" type="22" />
+                    <attribute id="Version" value="268435456" type="4" />
+                    <children>
+                        <node id="PublishVersion">
+                            <attribute id="Version" value="909321303" type="4" />
+                        </node>
+                        <node id="Scripts" />
+                        <node id="TargetModes">
+                            <children>
+                                <node id="Target">
+                                    <attribute id="Object" value="Story" type="22" />
+                                </node>
+                                <node id="Target">
+                                    <attribute id="Object" value="GM" type="22" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

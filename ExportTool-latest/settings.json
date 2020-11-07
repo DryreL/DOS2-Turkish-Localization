@@ -1,0 +1,36 @@
+{
+  "GR2": {
+    "InputPath": "T:\\SteamLibrary\\steamapps\\common\\Divinity Original Sin 2\\Data\\Localization",
+    "OutputPath": "",
+    "BatchInputPath": "",
+    "BatchOutputPath": "",
+    "BatchInputFormat": 0,
+    "BatchOutputFormat": 1,
+    "ConformPath": null
+  },
+  "PAK": {
+    "ExtractInputPath": "",
+    "ExtractOutputPath": "",
+    "CreateInputPath": "",
+    "CreateOutputPath": "",
+    "CreatePackageVersion": 0,
+    "CreatePackageCompression": 3
+  },
+  "Resources": {
+    "InputPath": "",
+    "OutputPath": "",
+    "BatchInputPath": "",
+    "BatchOutputPath": "",
+    "BatchInputFormat": 0,
+    "BatchOutputFormat": 0
+  },
+  "Story": {
+    "InputPath": "",
+    "OutputPath": ""
+  },
+  "Debugging": {
+    "SavePath": ""
+  },
+  "SelectedGame": 3,
+  "Version": "1.14.0"
+}
