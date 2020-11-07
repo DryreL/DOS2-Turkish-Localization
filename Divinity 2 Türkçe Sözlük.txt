@@ -1,11 +1,42 @@
 &apos;
 &lt;i&gt; &lt;/i&gt;
 
+Strength - Güç
+Finesse - Kurnazlık
+Intelligence - Zeka
+Constitution - Bünye
+Memory - Hafıza
+Wits - Akıl
+
+Damage - Hasar
+Critical Chance - Kritik Şans
+Accuracy - Doğruluk
+Dodging - Kurtulma
+Physical Armour - Fiziksel Zırh
+Magic Armour - Büyülü Zırh
+
+Movement
+Initiative
+Experience
+Next Level
+
+Fire
+Water
+Earth
+Air
+Poison
+
+
 Spitter - ?
+Prodigy - Mucize
+Attitude - Tutum
+Source-Muted - Kaynaksızlaştırılmış
 Demonic Flayer - Şeytani Uğursuz
 Blackroot - Karakök
 Shriekers - Çığırtkan
 Driftwood - (bölge)
+The Prestige - Prestij
+Voidwolf - Boşkurt
 Chancellor - Bakan
 Shadow Prince - Gölge Prens
 Fire Voidling - Ateş Boşlanı
@@ -19,7 +50,7 @@ plight - durum
 Deathfog - Ölümsisi
 Fiery Malediction - Kızgın Lanet
 citrus - Narenciye
-Wits - Zeka
+Wits - Zeka (değişti) Akıl
 Hymnals - İlahi Kitaplar
 Virtue Token - Erdemlik Simgesi
 Fort Joy - (mekan)
